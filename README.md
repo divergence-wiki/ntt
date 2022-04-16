@@ -1,7 +1,17 @@
-# ntt
+# ntt - Setup Documentation
+
+Welcome
+-------
+
 Welcome to Network Tools &amp; Technologies - Setup Documentation
 
-For the NTT Lab you will need to 1) setup your computer, 2) setup MFA authentication on your phone or tablet
+For the NTT Lab you will need to:  
+1) setup your computer
+2) setup MFA authentication on your phone or tablet
+
+
+Getting Started
+---------------
 
 #1 Computer: [Windows](https://github.com/divergence-wiki/ntt/tree/main/windows) | [Mac](https://github.com/divergence-wiki/ntt/tree/main/mac) | [Chromebook](https://github.com/divergence-wiki/ntt/tree/main/chromebook)
 
