@@ -35,5 +35,17 @@ On macOS 11 Big Sur and 10.15 Catalina, after installing the VPN you will need t
 
 > If you are using the VPN-only client, you only need to grant permissions for fctservctl and FortiClient.
 
+Open FortiClient VPN and check the acknowledgement checkbox at the bottom, then I accept.
 
-Your instructor will provide details on configuring the VPN.
+Click Configure VPN
+
+Connection Name and Description are up to you. You can put whatever you want, it doesn't matter, just not blank.  
+Get the Remote Gateway, Custom Port, and Username info from your instructor.  
+Make sure to select the checkbox for Customize port.
+
+Once you have filled out the connection info, click Save.
+
+If you have already activated your FortiToken [Android](https://github.com/divergence-wiki/ntt/tree/main/android) | [iOS](https://github.com/divergence-wiki/ntt/tree/main/iOS), you are ready to connect to the VPN. Go ahead and test the VPN connection. When you connect it will prompt for the MFA token code from the FortiToken app.  
+
+<img width="442" alt="image" src="https://user-images.githubusercontent.com/102036007/163693970-0b44d842-87e7-46b9-903b-6b1ee494d708.png">
+
