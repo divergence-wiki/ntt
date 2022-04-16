@@ -11,6 +11,10 @@ For the NTT Lab you will need to:
 
 #2 setup MFA authentication on your phone or tablet
 
+Instructions
+------------
+
+These instructions will get you started with downloading and installing the applications required to access the lab content. Additional instructions will be provided by your instructor. 
 
 Getting Started
 ---------------
