@@ -53,7 +53,12 @@ Note: If you don't see this prompt, or you accidently closed it, skip to the #Ma
 
 <img width="499" alt="image" src="https://user-images.githubusercontent.com/102036007/163692739-c40c3a95-845c-4ef7-a65b-518e147dd992.png">
 
+Get the Host, User, and Password information from your instructor.  
+Click next once you have filled out the server info.  
+
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/102036007/163692766-9a43257c-c2de-41d9-b268-f3630067a289.png">
+
+ 
 
 #Manual Instructions
 
