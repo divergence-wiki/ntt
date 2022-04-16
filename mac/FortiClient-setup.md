@@ -27,4 +27,13 @@ You do not need to make any changes during the install.
 Post-Install VPN Configuration
 ------------------------------
 
+On macOS 11 Big Sur and 10.15 Catalina, after installing the VPN you will need to grant full disk access to fctservctl and FortiClient, as described in FortiNet's [documentation](https://docs.fortinet.com/document/forticlient/7.0.1/macos-release-notes/223986/special-notices).
+
+> You can install FortiClient (macOS) 7.0.1 on macOS 11 Big Sur and 10.15 Catalina. With these releases, FortiClient works properly only when you grant permissions to access the full disk in the Security & Privacy pane for the following services:
+
+...
+
+> If you are using the VPN-only client, you only need to grant permissions for fctservctl and FortiClient.
+
+
 Your instructor will provide details on configuring the VPN.
