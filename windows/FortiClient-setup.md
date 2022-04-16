@@ -1,5 +1,5 @@
-For Windows Users only
-----------------------
+FortiClient setup for Windows Users
+-----------------------------------
 
 FortiClient VPN
 ---------------
