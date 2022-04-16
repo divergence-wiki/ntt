@@ -1,4 +1,4 @@
-FortiClient setup for Windows Users
+FortiClient setup for Windows users
 -----------------------------------
 
 FortiClient VPN
