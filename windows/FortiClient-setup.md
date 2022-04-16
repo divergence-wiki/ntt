@@ -34,10 +34,9 @@ Connection Name and Description are up to you. You can put whatever you want, it
 Get the Remote Gateway, Custom Port, and Username info from your instructor.  
 Make sure to select the checkbox for Customize port.
 
-Once you have filled out the connection info, 
+Once you have filled out the connection info, click Save.
 
 <img width="442" alt="image" src="https://user-images.githubusercontent.com/102036007/163693970-0b44d842-87e7-46b9-903b-6b1ee494d708.png">
 
+If you have already activated your FortiToken [Android](https://github.com/divergence-wiki/ntt/tree/main/android) | [iOS](https://github.com/divergence-wiki/ntt/tree/main/iOS), you are ready to connect to the VPN. Go ahead and test the VPN connection.  
 
-
-Your instructor will provide details on configuring the VPN.
