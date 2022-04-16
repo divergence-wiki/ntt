@@ -26,6 +26,8 @@ Run the install file, and accept the default install prompts, except where noted
 
 #1 Choose Components | Match this screenshot.
 
+Note: These screenshots were taken on a Windows computer. The Mac version of GNS3 has some differences but the content is the same.
+
 <img width="376" alt="image" src="https://user-images.githubusercontent.com/102036007/163692222-c1be812b-d2e4-422a-90d9-4758f05059af.png">
 
 #2 Npcap | This prompt may appear in the background, behind another application. If the installation seems to have stopped or paused, the prompt is waiting on you to make a section. Select yes to install Npcap. If you already have Wireshark installed, Npcap will already be installed and you will get a prompt asking if you want to replace Npcap with an older version. If so, select no.
@@ -41,8 +43,6 @@ Leave GNS3 open and move on to the next section.
 
 Post-Install GNS3 Configuration
 -------------------------------
-
-Note: These screenshots were taken on a Windows computer. The Mac version of GNS3 has some differences but the content is the same.
 
 #Default Instructions
 ---------------------
