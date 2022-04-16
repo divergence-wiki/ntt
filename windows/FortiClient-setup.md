@@ -26,4 +26,18 @@ You do not need to make any changes during the install.
 Post-Install VPN Configuration
 ------------------------------
 
+Open FortiClient VPN and check the acknowledgement checkbox at the bottom, then I accept.
+
+Click Configure VPN
+
+Connection Name and Description are up to you. You can put whatever you want, it doesn't matter, just not blank.  
+Get the Remote Gateway, Custom Port, and Username info from your instructor.  
+Make sure to select the checkbox for Customize port.
+
+Once you have filled out the connection info, 
+
+<img width="442" alt="image" src="https://user-images.githubusercontent.com/102036007/163693970-0b44d842-87e7-46b9-903b-6b1ee494d708.png">
+
+
+
 Your instructor will provide details on configuring the VPN.
