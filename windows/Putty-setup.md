@@ -8,7 +8,7 @@ Putty is a free open source terminal emulator application.
 We will use it in the lab to access our CLI based devices.
 
 Download
------
+--------
 
 Go to: https://www.putty.org/
 
