@@ -5,8 +5,8 @@ GNS3 setup for Mac users
 GNS3
 ----
 
-GNS3 is a free open source LAB virtualization application.
-We will be using GNS3 as a CLIENT to connect to a GNS3 SERVER hosted on campus.
+GNS3 is a free open source LAB virtualization application.  
+We will be using GNS3 as a CLIENT to connect to a GNS3 SERVER hosted on campus.  
 
 Download
 --------
@@ -23,4 +23,9 @@ Install
 Post-Install GNS3 Configuration
 -------------------------------
 
-The GNS3 configuration instructions are located at the internal ntt-wiki. You'll be able to access the internal wiki after you have connected to the VPN. Your instructor will provide more details.
+After you have installed  [Royal TSX](https://github.com/divergence-wiki/ntt/blob/main/mac/royal-tsx-setup.md).  
+In GNS3 go to Preferences -> VNC, and select Royal TSX.
+
+The GNS3 configuration instructions are located at the internal ntt-wiki.  
+You'll be able to access the internal wiki after you have connected to the VPN.  
+Your instructor will provide more details.  
