@@ -1,5 +1,5 @@
-For iOS (apple) Users Only
---------------------------
+FortiToken setup for iOS users
+------------------------------
 
 
 On a cellphone or tablet
