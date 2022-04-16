@@ -1,5 +1,5 @@
-For Android Users Only
-----------------------
+FortiToken setup for Android users
+----------------------------------
 
 
 On a cellphone or tablet
