@@ -1,5 +1,5 @@
-For Windows Users only
-----------------------
+Putty setup for Windows users
+-----------------------------
 
 Putty
 -----
