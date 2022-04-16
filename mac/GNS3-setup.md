@@ -45,6 +45,7 @@ Post-Install GNS3 Configuration
 Note: These screenshots were taken on a Windows computer. The Mac version of GNS3 has some differences but the content is the same.
 
 #Default Instructions
+---------------------
 
 The first thing you should see is a prompt for how GNS3 should run.   
 We are running appliances on a remote server.  
@@ -58,13 +59,15 @@ Click next once you have filled out the server info.
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/102036007/163692766-9a43257c-c2de-41d9-b268-f3630067a289.png">
 
- 
+After applying the server settings, GNS3 will process the changes, it may seem like it's frozen, give it a minute, if it still seems stuck - close and reopen GNS3.
 
 #Manual Instructions
+--------------------
 
+Royal TSX
+---------
+
+If you have already installed [Royal TSX](https://github.com/divergence-wiki/ntt/blob/main/mac/royal-tsx-setup.md).  
 
 In GNS3 go to Preferences -> VNC, and select Royal TSX.
 
-The GNS3 configuration instructions are located at the internal ntt-wiki.  
-You'll be able to access the internal wiki after you have connected to the VPN.  
-Your instructor will provide more details.  
