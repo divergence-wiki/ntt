@@ -1,4 +1,4 @@
-GNS3 Setup for Windows users
+GNS3 setup for Windows users
 ----------------------------
 
 GNS3
