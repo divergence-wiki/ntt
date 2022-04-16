@@ -57,12 +57,26 @@ Note: If you don't see this prompt, or you accidently closed it, skip to the #Ma
 Get the Host, User, and Password information from your instructor.  
 Click next once you have filled out the server info.  
 
+After applying the server settings, GNS3 will process the changes, it may seem like it's frozen, give it a minute, if it still seems stuck - close and reopen GNS3.  
+
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/102036007/163692766-9a43257c-c2de-41d9-b268-f3630067a289.png">
 
-After applying the server settings, GNS3 will process the changes, it may seem like it's frozen, give it a minute, if it still seems stuck - close and reopen GNS3.
 
 #Manual Instructions
 --------------------
+
+In GNS3 go to Preferences -> Server  
+
+On the Main Server tab:  
+
+Make sure Enable local server is unchecked  
+Get the Host, User, and Password information from your instructor.  
+Click Apply once you have filled out the server info.  
+
+After applying the server settings, GNS3 will process the changes, it may seem like it's frozen, give it a minute, if it still seems stuck - close and reopen GNS3.  
+
+<img width="982" alt="image" src="https://user-images.githubusercontent.com/102036007/163693339-d13ce69c-ce0a-4a50-8c68-2135bbee841f.png">
+
 
 Royal TSX
 ---------
