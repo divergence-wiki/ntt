@@ -1,5 +1,5 @@
-For Windows Users only
-----------------------
+GNS3 Setup for Windows users
+----------------------------
 
 GNS3
 ----
