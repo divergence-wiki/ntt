@@ -15,7 +15,7 @@ You will need to download and install the app on a phone or tablet.
 Configuration
 -------------
 
-On the first day of your lab, you will receive a FTM Activation on FortiGate email. Let your instructor know if you do not see the email.
+On the first day of your lab, you will receive a "FTM Activation on FortiGate" email. Let your instructor know if you do not see the email.
 
 The email includes a QR code, which you can scan with your phone tablet to automatically activate and configure in token.  
 Alternatively, you can manually enter the text code that is also include in the email.  
