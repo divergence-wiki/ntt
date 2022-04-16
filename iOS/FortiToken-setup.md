@@ -29,4 +29,6 @@ or select Enter Manually at the bottom of the app,
     and then provide any name you wish,
     and enter the text code from the email.
     
-If you have trouble setting up the token, make sure to read the email instuctions, if you continue to have trouble, let your instructor know. Sometimes tokens need to be reissued.
+If you have trouble setting up the token, make sure to read the email instuctions, if you continue to have trouble, let your instructor know.
+
+Note: Tokens must be activated within 3 days or they must be reissued.
