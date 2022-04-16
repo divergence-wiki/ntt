@@ -15,11 +15,11 @@ Download the Royal TSX for macOS installer from: https://www.royalapps.com/ts/ma
 Install
 -------
 
-> Double-click the downloaded installation package (.dmg file).  
-> A new Finder window opens.  
-> Drag the "Royal TSX" item to the "Applications" folder.  
+Double-click the downloaded installation package (.dmg file).  
+A new Finder window opens.  
+Drag the "Royal TSX" item to the "Applications" folder.  
 
 Post-Install Configuration
 --------------------------
 
-You don't need to configure anything.
+No configuration needed.
