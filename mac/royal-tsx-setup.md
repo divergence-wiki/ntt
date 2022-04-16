@@ -22,4 +22,6 @@ Drag the "Royal TSX" item to the "Applications" folder.
 Post-Install Configuration
 --------------------------
 
-No configuration needed.
+If you have already installed [GNS3](https://github.com/divergence-wiki/ntt/blob/main/mac/GNS3-setup.md).  
+
+In GNS3 go to Preferences -> VNC, and select Royal TSX.
