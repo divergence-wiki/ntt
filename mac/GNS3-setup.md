@@ -83,5 +83,8 @@ Royal TSX
 
 If you have already installed [Royal TSX](https://github.com/divergence-wiki/ntt/blob/main/mac/royal-tsx-setup.md).  
 
-In GNS3 go to Preferences -> VNC, and select Royal TSX.
+In GNS3 go to Preferences -> General
+
+On the VNC tab:  
+Select Royal TSX.
 
