@@ -22,3 +22,7 @@ Install
 Run the install file, and accept the default install prompts.
 You do not need to make any changes during the install.
 
+Post-Install Putty Configuration
+--------------------------------
+
+You don't need to configure anything with Putty.
