@@ -25,4 +25,9 @@ You do not need to make any changes during the install.
 Post-Install Putty Configuration
 --------------------------------
 
-No configuration needed.
+If you have already installed [GNS3](https://github.com/divergence-wiki/ntt/blob/main/windows/GNS3-setup.md).  
+
+In GNS3 go to Preferences -> General
+
+On the Console applications tab:  
+Select Putty normal standalone version  
