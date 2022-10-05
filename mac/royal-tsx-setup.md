@@ -25,7 +25,7 @@ Drag the "Royal TSX" item to the "Applications" folder.
 Post-Install Configuration
 --------------------------
 
-If you have already installed [GNS3](https://github.com/divergence-wiki/ntt/blob/main/mac/GNS3-setup.md).  
+After [GNS3](https://github.com/divergence-wiki/ntt/blob/main/mac/GNS3-setup.md) has been installed.  
 
 In GNS3 go to Preferences -> General
 
