@@ -13,9 +13,9 @@ Download
 
 Download the GNS3 installer from the GNS3 github: https://github.com/GNS3/gns3-gui/releases
 
-Download the dmg file version "2.2.40.1".
+Download the dmg file version "2.2.41".
 
-Direct Link: https://github.com/GNS3/gns3-gui/releases/download/v2.2.40.1/GNS3-2.2.40.1.dmg
+Direct Link: https://github.com/GNS3/gns3-gui/releases/download/v2.2.41/GNS3-2.2.41.dmg
 
 Install
 -------
