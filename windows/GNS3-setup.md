@@ -12,9 +12,9 @@ Download
 
 Download the GNS3 installer from the GNS3 github: https://github.com/GNS3/gns3-gui/releases
 
-Download the all-in-one exe file version "2.2.45".
+Download the all-in-one exe file version "2.2.49".
 
-Direct Link: https://github.com/GNS3/gns3-gui/releases/download/v2.2.45/GNS3-2.2.45-all-in-one.exe
+Direct Link: [https://github.com/GNS3/gns3-gui/releases/download/v2.2.45/GNS3-2.2.45-all-in-one.exe](https://github.com/GNS3/gns3-gui/releases/download/v2.2.49/GNS3-2.2.49-all-in-one.exe)
 
 Install
 -------
